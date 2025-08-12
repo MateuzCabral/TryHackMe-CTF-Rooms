@@ -12,7 +12,7 @@ Bem-vindo à coleção de write-ups de laboratórios e desafios de pentesting. A
 - [Root Me- TryHackMe](Root%20Me/Root_Me.md)  
   Write-up detalhado do laboratório Root Me da plataforma TryHackMe.
 
-- [Brooklyn Nine Nine- TryHackMe](Root%20Me/Root_Me.md)  
+- [Brooklyn Nine Nine- TryHackMe](Brooklyn%20Nine%20Nine/BrooklynNineNine.md)  
   Write-up detalhado do laboratório Brooklyn Nine Nine da plataforma TryHackMe.
 
 <br>
